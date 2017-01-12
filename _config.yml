@@ -1,7 +1,7 @@
 machine:
   environment:
-    USER_NAME: <your-github-username>
-    USER_EMAIL: <your-github-email>
+    USER_NAME: TanapatLimsombat
+    USER_EMAIL: tem@iglu.net
   ruby:
     version: 2.2.3
 
